@@ -1,0 +1,61 @@
+<?php
+
+return [
+    'main' => 'Main Category',
+    'index' => [
+        'title' => 'Contests Categories',
+        'create' => 'Create Category',
+        'archive' => 'Contests Categories Archive',
+        'title_tag' => '- Contests Categories',
+        'notfound' => 'Contests Categories Not Found',
+    ],
+    'messages' => [
+        'created' => 'Category Created Sucsessfuly',
+        'edited' => 'Category :category Edited Sucsessfuly',
+        'deleted' => 'Category Deleted Sucsessfuly',
+        'restored' => 'Category Restored Sucsessfuly',
+        'restored_selected' => 'Contests Categories Restored Sucsessfuly',
+        'delete_empty' => 'Please Choose Contests Categories To Delete',
+        'deleted_selected' => 'Contests Categories Deleted Sucsessfuly',
+    ],
+    'archive' => [
+        'title' => 'Contests Categories Archive',
+        'all' => 'All Contests Categories',
+        'title_tag' => '- Contests Categories Archive',
+        'notfound' => 'Contests Categories Archive Not Found',
+    ],
+    'show' => [
+        'view' => 'View Category : ',
+        'back' => 'Back To Contests Categories',
+        'title_tag' => '- Show Category :title',
+    ],
+    'create' => [
+        'create' => 'Create Category',
+        'title_tag' => '- Create Category',
+    ],
+    'edit' => [
+        'edit' => 'Edit Category : ',
+        'title_tag' => '- Edit Category :category',
+    ],
+    'fields' => [
+        'title' => 'Category Name',
+        'slug' => 'Category Slug',
+        'current_slug' => 'Current Slug',
+        'info' => 'Category Informations',
+        'description' => 'Description',
+        'descrbtion' => 'Descrbtion',
+        'meta_desc' => 'Meta Description',
+        'meta_tags' => 'Meta Tags',
+        'parent' => 'Parent',
+        'main' => 'Main Category',
+        'status' => 'Status',
+        'choose' => 'Choose...',
+        'publish' => 'Publish',
+        'pending' => 'Pending',
+        'draft' => 'Draft',
+        'media' => 'Images',
+        'image' => 'Image',
+        'create' => 'create Category',
+        'update' => 'Update Category',
+    ],
+];

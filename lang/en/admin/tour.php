@@ -1,0 +1,67 @@
+<?php
+
+return [
+
+    'index' => [
+        'title' => 'Contests',
+        'create' => 'Create New',
+        'archive' => 'Contests Archive',
+        'title_tag' => '- Contests',
+        'notfound' => 'There is no data to display',
+    ],
+    'messages' => [
+        'created' => 'The Contest created successfully',
+        'edited' => 'The Contest :page updated successfully',
+        'deleted' => 'The Contest Deleted Sucsessfuly',
+        'restored' => 'Contest Restored Sucsessfuly',
+        'restored_selected' => 'Contests Restored Sucsessfuly',
+        'delete_empty' => 'Please Choose Contests To Delete',
+        'deleted_selected' => 'Contests Deleted Sucsessfuly',
+    ],
+    'archive' => [
+        'title' => 'Contests Archive',
+        'all' => 'All Contests',
+        'title_tag' => '- Contests Archive',
+        'notfound' => 'There is no data to display',
+    ],
+    'create' => [
+        'create' => 'Create New Contest',
+        'title_tag' => '- Create New Contest',
+    ],
+    'edit' => [
+        'edit' => 'Update Contest : ',
+        'title_tag' => '- Update Contest :page',
+    ],
+    'show' => [
+        'view' => 'View Contest : ',
+        'back' => 'Back To Contests',
+        'title_tag' => '- Show Contest :title',
+    ],
+    'fields' => [
+        'title' => 'Contest Title',
+        'slug' => 'Contest Slug',
+        'info' => 'Contest Informations',
+        'from_date' => 'starting date',
+        'to_date' => 'Expiration date',
+        'price' => 'Subscription price',
+        'category_id' => 'Contest type',
+        'context_id' => 'Contest Type ',
+        'comments_status' => 'Comments status',
+        'open' => 'open',
+        'closed' => 'closed',
+        'description' => 'Tour Description',
+        'content' => 'Tour Content',
+        'status' => 'Tour Status',
+        'publish' => 'publish',
+        'pending' => 'pending',
+        'draft' => 'draft',
+        'choose' => 'choose ...',
+        'image' => 'Thumbnail',
+        'media' => 'Photos',
+        'num_of' => 'Number of subscriptions',
+        'label_text' => 'Label Text',
+        'label_color' => 'Label Color',
+        'create' => 'Create Tour',
+        'update' => 'Update Tour',
+    ],
+];
